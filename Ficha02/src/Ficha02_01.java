@@ -12,7 +12,7 @@ public class Ficha02_01 {
         double a, b;
 
         54494949494484984
-                4651651561
+                9848948
         516546546
 
         //ler valores do utilizaor
