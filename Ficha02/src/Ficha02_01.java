@@ -11,6 +11,8 @@ public class Ficha02_01 {
         //declara variaveis
         double a, b;
 
+        516546546
+
         //ler valores do utilizaor
         System.out.println("inserir um numero: ");
         a = input.nextDouble();
