@@ -15,7 +15,6 @@ public class Ficha01_04 {
         //ler raio
         System.out.println("introduzir valor inteiro: ");
         raio = input.nextDouble();
-
         //area
         area=PI*(raio*raio);
 

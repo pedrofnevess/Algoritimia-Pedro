@@ -8,7 +8,7 @@ public class Ficha02_01 {
         System.out.println("**** Exercicio 1 ****");
         Scanner input = new Scanner(System.in);
 
-        //declara variaveis
+        //declarar variaveis
         double a, b;
 
         //ler valores do utilizaor
