@@ -8,6 +8,9 @@ public class Ficha02_02 {
         System.out.println("**** Exercicio 1 ****");
         Scanner input = new Scanner(System.in);
 
+        //declarar variaveis
+        double salario1, salario2;
+
 
     }
 }
