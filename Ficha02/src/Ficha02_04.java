@@ -18,32 +18,25 @@ public class Ficha02_04 {
         if (lugarFinal == 1) {
             System.out.println("pontos ganhos: " + 10);
         }
-
         // 2 lugar
         if (lugarFinal == 2) {
-        System.out.println("pontos ganhos: " + 8);
+            System.out.println("pontos ganhos: " + 8);
         }
-
         // 3 lugar
         if (lugarFinal == 3) {
             System.out.println("pontos ganhos: " + 6);
         }
-
         // 4 lugar
         if (lugarFinal == 4) {
             System.out.println("pontos ganhos: " + 5);
         }
-
         // 5 lugar
         if (lugarFinal == 5) {
             System.out.println("pontos ganhos: " + 4);
         }
-
         // 6 lugar
         if (lugarFinal == 6) {
             System.out.println("pontos ganhos: " + 3);
         }
-
-
-        }
     }
+}
