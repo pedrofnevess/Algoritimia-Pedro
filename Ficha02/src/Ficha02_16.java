@@ -8,6 +8,12 @@ public class Ficha02_16 {
         Scanner input = new Scanner(System.in);
 
         //declarar variaveis
+        int valorTotal=0, notas200=0, notas100=0, notas50=0, notas20=0, notas10=0, notas5=0;
+
+        //ler variaveis notas200
+        System.out.println("inserir valor total: ");
+        valorTotal = input.nextInt();
+        valorTotal = valorTotal+(notas200/200);
 
 
 
