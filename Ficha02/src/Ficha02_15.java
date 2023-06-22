@@ -53,25 +53,25 @@ public class Ficha02_15 {
                 //a
                 if (a > b && a > c) {
                     if (b > c) {
-                        System.out.println(c+" "+b+" "+a);
+                        System.out.println(a+" "+b+" "+c);
                     } else {
-                        System.out.println(c+" "+a+" "+b);
+                        System.out.println(a+" "+c+" "+b);
                     }
                 }
                 //b
                 if (b > a && b > c) {
                     if (a > c) {
-                        System.out.println(c+" "+a+" "+b);
+                        System.out.println(b+" "+a+" "+c);
                     } else {
-                        System.out.println(c+" "+b+" "+a);
+                        System.out.println(b+" "+c+" "+a);
                     }
                 }
                 //c
                 if (c > a && c > b) {
                     if (a > b) {
-                        System.out.println(b+" "+a+" "+c);
+                        System.out.println(c+" "+a+" "+b);
                     } else {
-                        System.out.println(b+" "+b+" "+c);
+                        System.out.println(c+" "+b+" "+a);
                     }
                 }
                 break;
