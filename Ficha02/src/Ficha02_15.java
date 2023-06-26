@@ -18,7 +18,7 @@ public class Ficha02_15 {
         b = input.nextInt();
         System.out.println("inserir terceiro numero: ");
         c = input.nextInt();
-        System.out.println("inserir ordem crescente (c) ou decrescente (d): ");
+        System.out.println("inserir ordem crescente (C) ou decrescente (D): ");
         ordem = input.next();
 
         switch (ordem) {
@@ -75,6 +75,8 @@ public class Ficha02_15 {
                     }
                 }
                 break;
+            default:
+                System.out.println("opcao invalida");
         }
     }
 }
