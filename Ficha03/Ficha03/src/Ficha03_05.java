@@ -1,5 +1,4 @@
 import java.util.Scanner;
-
 public class Ficha03_05 {
     public static void main(String[] args) {
 

@@ -26,29 +26,43 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.Ficha03_05">
-    <configuration name="Ficha03_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ficha03_01" />
+}</component>
+  <component name="RunManager" selected="Application.Ficha03_12">
+    <configuration name="Ficha03_06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ficha03_06" />
       <module name="Ficha03" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ficha03_02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ficha03_02" />
+    <configuration name="Ficha03_08" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ficha03_08" />
       <module name="Ficha03" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ficha03_05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ficha03_05" />
+    <configuration name="Ficha03_10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ficha03_10" />
+      <module name="Ficha03" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ficha03_11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ficha03_11" />
+      <module name="Ficha03" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ficha03_12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ficha03_12" />
       <module name="Ficha03" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -56,9 +70,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Ficha03_05" />
-        <item itemvalue="Application.Ficha03_02" />
-        <item itemvalue="Application.Ficha03_01" />
+        <item itemvalue="Application.Ficha03_12" />
+        <item itemvalue="Application.Ficha03_11" />
+        <item itemvalue="Application.Ficha03_10" />
+        <item itemvalue="Application.Ficha03_08" />
+        <item itemvalue="Application.Ficha03_06" />
       </list>
     </recent_temporary>
   </component>
